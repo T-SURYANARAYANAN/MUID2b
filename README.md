@@ -37,7 +37,7 @@ Program to implement ExplicitIntent .<br>
 Developed by: SURYANARAYANAN T <br>
 Registeration Number :212224040341 <br>
 ### MainActivity.java
-```
+```java
 package com.example.explicitintent;
 
 import android.content.Intent;
@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity
 
 ```
 ### MainActivity2.java
-```
+```java
 package com.example.explicitintent;
 
 import android.os.Bundle;
@@ -119,7 +119,7 @@ public class MainActivity2 extends AppCompatActivity
 }
 ```
 ### activity_main.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -168,7 +168,7 @@ public class MainActivity2 extends AppCompatActivity
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ### activity_main2.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
